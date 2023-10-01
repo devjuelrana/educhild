@@ -1,0 +1,433 @@
+@media (min-width: 1440px) and (max-width: 1600px) {
+}
+@media (min-width: 1200px) and (max-width: 1440px) {
+	
+}
+@media (min-width: 1025px) and (max-width: 1800px) {
+	.header_content {
+		width: 61%;
+	}
+}
+@media (min-width: 1024px) and (max-width: 1400px) {
+	.right_image_area {
+		padding-left: 0;
+	}
+	.team_content_inner h5 {
+		margin-top: 5px;
+		font-size: 23px;
+	}
+	.team_content {
+		width: 80%;
+	}
+	
+}
+@media (min-width: 1170px) and (max-width: 1366px) {
+	
+}
+@media (min-width: 1365px) and (max-width: 1660px) {
+	
+}
+@media (min-width: 992px) and (max-width: 1400px) {
+	.student_right_area {
+		display: inline-flex;
+	}
+	.student_right_img img {
+		margin: 100px 0 0px 14px;
+	}
+}
+@media (min-width: 1301px) and (max-width: 1440px) {
+	.header_content {
+		width: 61%;
+	}
+	.top_search_btn {
+		margin-right: -30px;
+	}
+	.top_search_btn a i {
+		margin-top: 11px;
+	}
+	.main_menu > ul > li > a {
+		font-size: 18px;
+		margin: 36px 8px;
+	}
+	.educhild_menu_btn a {
+		font-size: 18px;
+		margin-left: 75px;
+		width: 100%;
+		margin-right: -73px;
+	}
+}
+@media (min-width: 992px) and (max-width: 1364px) {	
+	.header_content {
+		width: 61%;
+	}
+	.top_search_btn {
+		margin-right: -30px;
+	}
+	.top_search_btn a i {
+		margin-top: 11px;
+	}
+	.main_menu > ul > li > a {
+		font-size: 17px;
+		margin: 36px 7px;
+	}
+	.educhild_menu_btn a {
+		font-size: 17px;
+		margin-left: 75px;
+		width: 100%;
+		margin-right: -73px;
+	}
+}
+@media (min-width: 992px) and (max-width: 1199px) {
+	.header_content {
+		width: 61%;
+	}
+	.top_left_address {
+		display: grid;
+	}
+	.logo_area {
+		margin-top: 20px;
+		display: block;
+		margin-left: -93px;
+	}
+	.main_menu {
+		margin-left: -35px;
+	}
+
+	.top_search_btn {
+		margin-right: -30px;
+	}
+	.top_search_btn a i {
+		margin-top: 11px;
+	}
+	.main_menu > ul > li > a {
+		font-size: 16px;
+		margin: 36px 6px;
+	}
+	.educhild_menu_btn a {
+		font-size: 16px;
+		margin-left: 75px;
+		width: 100%;
+		margin-right: -73px;
+	}
+	.student_right_area {
+		display: inline-flex;
+	}
+	.student_right_img img {
+		margin: 100px 0 0px 14px;
+	}
+
+
+}
+
+@media (min-width: 768px) and (max-width: 1024px) {
+	.right_image_area {
+		padding-left: 0; 
+		margin-right: 10px;
+	}
+	.right_image_area .team_content {
+		bottom: -60px;
+		padding: 16px 3px;
+		width: 100%;
+	}
+	.team_content_inner h5 {
+		font-size: 20px;
+	}
+	.team_content {
+		padding: 16px 0;
+		width: 100%;
+	}
+	.team_tumb img {
+		width: 100%;
+	}
+}
+
+@media (min-width: 768px) and (max-width: 991px) {
+	.top_social_menu {
+		margin: 13px 0 0 -40px;
+	}
+	.top_right_info { 
+		margin: -26px 73px 0 0;
+	}
+	.header_image_area {
+		position: relative;
+	}
+
+	.header_content {
+		text-align: center;
+		top: 22%;
+		width: 88%;
+	}
+	.header_content h2 {
+		font-size: 52px;
+	}
+	.header_left_btn {
+		margin: 35px 0;
+	}
+	.header_right_btn {
+		display: inline-block;
+		margin: 0 0 34px 24px;
+	}
+	.header_right_btn a {
+		margin-left: 0;
+	}
+	.student_right_area {
+		display: inline-flex;
+	}
+	.student_right_img img {
+		margin: 100px 0 0px 14px;
+	}
+	.teacher_left_image_area {
+		display: inline-flex;
+	}
+	.section_title h2 {
+		font-size: 28px;
+	}
+	.section_title p {
+		font-size: 18px;
+	}
+	.section_title a {
+		font-size: 16px;
+	}
+	.right_image_area {
+		padding-left: 0; 
+		margin-right: 10px;
+	}
+	.right_image_area .team_content {
+		bottom: -60px;
+		padding: 16px 3px;
+		width: 100%;
+	}
+	.team_content_inner h5 {
+		font-size: 20px;
+	}
+	.team_content {
+		padding: 16px 0;
+		width: 100%;
+	}
+	.team_tumb img {
+		width: 100%;
+	}
+
+
+}
+@media (min-width: 992px) {
+	.mobile_munu_area {
+		display: none;
+	}
+	.mobile_logo_area {
+		display: none;
+	}
+}
+@media (max-width: 991px) {
+	body{
+		overflow-x: hidden;
+	}
+	.mobile_logo_area {
+		display: block;
+		padding: 12px 0;
+		text-align: center;
+		margin: 0;
+	}
+	.mobile_logo_area a {}
+	.mobile_logo_area a img {
+		max-width: 100%;
+		height: auto;
+	}
+	.abcd {
+		width: 114%;
+	}
+	.logo_area {
+		margin-top: 27px;
+		margin-left: -98px;
+	}
+	.main_menu_area {
+		display: none;
+	}
+	.mobile_munu_area {
+		display: block;
+	}
+	i.icofont-simple-down {
+		display: none;
+	}
+}
+
+@media (max-width: 767px) {
+	body {
+		overflow-x: hidden;
+	}
+	.top_social_menu {
+		margin: 13px 0 0 -40px;
+	}
+	.top_right_info { 
+		margin: -26px 73px 0 0;
+	}
+	.header_image_area {
+		position: relative;
+	}
+
+	.header_content {
+		text-align: center;
+		top: 22%;
+		width: 93%;
+	}
+	.header_content h2 {
+		font-size: 28px;
+	}
+	.header_left_btn {
+		margin: 35px 0;
+	}
+	.header_right_btn {
+		display: inline-block;
+		margin: 0;
+	}
+	.header_right_btn a {
+		margin-left: 0;
+	}
+	.student_left_area {
+		width: 100%; 
+	}
+	.section_title {
+		text-align: center;
+	}
+	.section_title h2 {
+		font-size: 28px;
+	}
+	.student_left_img {
+		margin: 46px 0 -158px 14px;
+	}
+	.teacher_right_area {
+		width: 100%; 
+		margin-top: 50px;
+	}
+	.educhild_feature_single_items {
+		margin-left: 20px;
+		width: 100%;
+	}
+	.section_title a {
+		margin-left: 55px;
+	}
+	.educhild_course_area {
+		padding: 60px 0;
+	}
+	.feature_area {
+		padding: 60px 0;
+	}
+	.educhild_counter_area {
+		padding: 60px 0;
+	}
+	.left_img {
+		margin: 60px 0;
+	}
+	.educhild_product_area {
+		padding: 60px 0;
+	}
+	.main_title h3 {
+		font-size: 18px;
+	}
+	.courses_title span a {
+		font-size: 14px;
+	}
+	.courses_title img {
+		margin-bottom: 52px;
+	}
+	.kten_blog_area {
+		padding: 60px 0;
+	}
+	.kten_blog_area .section_title {
+		text-align: center !important;
+		width: 120%;
+	}
+	.kten_blog_area .section_title h4 {
+		margin-right: 70px;
+	}
+	.kten_blog_area .section_title a {
+		margin-left: 66px;
+		margin-top: 14px;
+	}
+	.team_tumb img {
+		width: 100%;
+	}
+	.right_image_area {
+		padding-left: 0; 
+	}
+	.right_image_area .team_content {
+		position: absolute;
+		right: 90px;
+		bottom: -60px;
+		left: 0;
+		background: #FF9914;
+		padding: 25px 0;
+		transition: .8s;
+		width: 100%;
+	}
+	.team_content {
+		width: 100%;
+	}
+	.left_image_area {
+		padding-top: 55px;
+	}
+	.video_icon {
+		position: absolute;
+		top: 28%;
+		left: 50%;
+		transform: translate(-50px, -50px);
+	}
+	.video_sub_area {
+		padding: 20px 10px;
+		width: 100%;
+		top: 70px;
+		left: 0;
+		position: relative;
+		border-radius: unset;
+	}
+	.sub_content h2 {
+		font-size: 28px;
+	}
+	.middle_footer {
+		padding: 40px 0 55px;
+		text-align: center;
+	}
+	.widget_title {
+		margin-top: 28px;
+	}
+	.widget_address {
+		text-align: center;
+	}
+	.footer_icons {
+		margin-left: 80px;
+	}
+	.footer_icons i {
+		margin-right: -41px;
+	}
+	.bottom_footer {
+		text-align: center;
+	}
+	.bottom_footer_menu {
+		text-align: center;
+	}
+
+
+
+
+}
+
+
+
+@media only screen and (min-width: 320px) and (max-width: 480px) {
+	body {
+		overflow-x: hidden;
+	}
+	.video_icon {
+		position: absolute;
+		top: 20%;
+		left: 50%;
+		transform: translate(-50px, -50px);
+
+	}
+}
+@media (max-width: 568px) {
+	.top_header_area {
+		display: none;
+	}
+
+}
